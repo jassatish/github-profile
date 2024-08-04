@@ -8,7 +8,7 @@
 jassatish/jassatish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Satish Jaiswal</h1>
+<h1 align="center">Hi 👋, I'm Satish </h1>
 <h3 align="center">Passionate Computer Science Engineering Student Exploring Data Science and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassatish&label=Profile%20views&color=0e75b6&style=flat" alt="jassatish" /> </p>
