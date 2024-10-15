@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jassatish" alt="jassatish" /></a> </p>
 
-- 🔭 I’m currently working on [Elderly-Care-Companion-LLMs](https://github.com/jassatish/Elderly-Care-Companion-LLMs)
+- 🔭 I’m currently working on [Endoscopic Landmark and Polyp Detection Using Kvasir Dataset](https://github.com/jassatish/Endoscopic-Landmark-and-Polyp-Detection-Using-Kvasir-Dataset)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
