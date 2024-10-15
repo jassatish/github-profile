@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Endoscopic Landmark and Polyp Detection Using Kvasir Dataset](https://github.com/jassatish/Endoscopic-Landmark-and-Polyp-Detection-Using-Kvasir-Dataset)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **NLP and LLM**
 
 - 💬 Ask me about **Python, Java, SQL, Data Visualization, and Machine Learning**
 
